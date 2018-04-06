@@ -1,2 +1,2 @@
 # blog
-# source code for blog
+* source code for blog
